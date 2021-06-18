@@ -39,8 +39,8 @@ Wij hebben gekozen voor een puzzle game. De core mechanics zijn het dieuwen en s
    [Backlog]: <https://trello.com/b/t2qXeH9d/hellia>
    [Logboek]: <https://docs.google.com/spreadsheets/d/1tDrZ8fX7jP0w2hCwREO-HmhyLi4ouiQXwd5eqgX6rDc/edit?usp=sharing>
    [GameDesignDoc]: <https://docs.google.com/document/d/1X8w5dRuU9g5nfQ2QCCFAKI6omYNJrcBamgBn_oaYEVU/edit>
-   [RetrospectiveVerslagen]: <>
-   [ReviewVerslagen]: <>
+   [RetrospectiveVerslagen]: <https://docs.google.com/document/d/15xEvslzVu1jOxq3ThZSQSiVNOx3GxSu2TaU1d048MUs/edit?usp=sharing>
+   [ReviewVerslagen]: <https://docs.google.com/document/d/1VdoicKtMYYYafMtUQOpTC9OmKg3wqwW9cWCCGRhqCjQ/edit?usp=sharing>
    [Prototype]: <https://drive.google.com/file/d/1y2W1dx5Jl7iveq_Efwup67ssijkLqh93/view?usp=sharing>
    [Folder op teams]: <https://teams.microsoft.com/_#/school/files/Team%2003?threadId=19%3Abfb439f003e7454897270061ceb4a8ef%40thread.tacv2&ctx=channel&context=Opnamens&rootfolder=%252Fteams%252FMytheGDGA2021-Team3%252FGedeelde%2520documenten%252FTeam%25203%252FOpnamens>
    [AssetPlanning]: <https://trello.com/b/t2qXeH9d/hellia>

@@ -1,12 +1,12 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [Road from gnipahellir]
+Project team:[Calvin, Ingmar, Wessel, Eva, Joyce, Milou]
 
 Platform:
-[jullie platfom]
+Windows
 
 ### Korte omschrijving van de game
 ...
-
+Wij hebben gekozen voor een puzzle game. De core mechanics zijn het dieuwen en smelten van blokken en het doel van elk level is om de portal aan het einde te behalen.
 ---
 #### Producten Werkproces 1
 | Product  | Link |
@@ -36,12 +36,12 @@ Platform:
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
-   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
-   [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
-   [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
+   [Backlog]: <https://trello.com/b/t2qXeH9d/hellia>
+   [Logboek]: <https://docs.google.com/spreadsheets/d/1tDrZ8fX7jP0w2hCwREO-HmhyLi4ouiQXwd5eqgX6rDc/edit?usp=sharing>
+   [GameDesignDoc]: <https://docs.google.com/document/d/1X8w5dRuU9g5nfQ2QCCFAKI6omYNJrcBamgBn_oaYEVU/edit>
+   [RetrospectiveVerslagen]: <>
+   [ReviewVerslagen]: <>
+   [Prototype]: <https://drive.google.com/file/d/1y2W1dx5Jl7iveq_Efwup67ssijkLqh93/view?usp=sharing>
+   [Folder op teams]: <https://teams.microsoft.com/_#/school/files/Team%2003?threadId=19%3Abfb439f003e7454897270061ceb4a8ef%40thread.tacv2&ctx=channel&context=Opnamens&rootfolder=%252Fteams%252FMytheGDGA2021-Team3%252FGedeelde%2520documenten%252FTeam%25203%252FOpnamens>
+   [AssetPlanning]: <>
    

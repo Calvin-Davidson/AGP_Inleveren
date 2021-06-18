@@ -5,9 +5,9 @@ Platform:
 Windows
 
 ### Korte omschrijving van de game
-...
+
 Wij hebben gekozen voor een puzzle game. De core mechanics zijn het dieuwen en smelten van blokken en het doel van elk level is om de portal aan het einde te behalen.
----
+
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |

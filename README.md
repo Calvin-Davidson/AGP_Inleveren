@@ -43,5 +43,5 @@ Wij hebben gekozen voor een puzzle game. De core mechanics zijn het dieuwen en s
    [ReviewVerslagen]: <>
    [Prototype]: <https://drive.google.com/file/d/1y2W1dx5Jl7iveq_Efwup67ssijkLqh93/view?usp=sharing>
    [Folder op teams]: <https://teams.microsoft.com/_#/school/files/Team%2003?threadId=19%3Abfb439f003e7454897270061ceb4a8ef%40thread.tacv2&ctx=channel&context=Opnamens&rootfolder=%252Fteams%252FMytheGDGA2021-Team3%252FGedeelde%2520documenten%252FTeam%25203%252FOpnamens>
-   [AssetPlanning]: <>
+   [AssetPlanning]: <https://trello.com/b/t2qXeH9d/hellia>
    
